@@ -1,0 +1,37 @@
+.Stock {
+  text-align: left;
+  margin-left: 19%;
+  margin-right: 19%;
+  margin-top: 50px;
+}
+
+.transaction {
+  text-align: left;
+  margin-left: 1%;
+  margin-right: 1%;
+  margin-top: 50px;
+}
+
+.admin {
+  text-align: left;
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 50px;
+}
+
+table {
+  border: 3px solid gray;
+  border-collapse: collapse;
+}
+
+thead {
+  text-align: center;
+}
+
+td {
+  text-align: center;
+}
+
+tr {
+  height: 50px;
+}
